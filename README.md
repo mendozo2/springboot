@@ -1,3 +1,3 @@
 select a folder to check out
-this is the hole eclipse project , beter use sts  for run
+this is the hole eclipse project , better use sts  for run
 and maven 
